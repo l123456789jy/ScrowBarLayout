@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\TestApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha1_4edff9e27f4a81a2422ef96623eafc01d81ecd20.jar" />
+    </item>
+    <item
+        jar="F:\TestApplication\app\build\intermediates\exploded-aar\com.github.cpoopc\scrollablelayoutlib\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="43c0764c624394b2858c8471df571c2d6f0ba48c">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\com.github.cpoopc-scrollablelayoutlib-1.0.0_6b95fdbe54702c0ab9c672446fd306895cbd1c09.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\butterknife-5.1.1_4e4ce574f3d72998b594448756183a3048e0c38d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="F:\TestApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha1_1829ab14281835a7f281f2a76673578030507f31.jar" />
+    </item>
+    <item
+        jar="F:\TestApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha1_88b22bfb08a8fd31702f2b16a87e056bceed2745.jar" />
+    </item>
+    <item
+        jar="F:\TestApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0-alpha1_a17eaca6d732f886954a4d3c8f875fbec27ecda6.jar" />
+    </item>
+    <item
+        jar="F:\TestApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1_e72854c3cd17ea6a81e4c8e6b8dea3900759ca54.jar" />
+    </item>
+    <item
+        jar="F:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1_b18bbac6505108e826bf000835b508e6524968ca.jar" />
+    </item>
+    <item
+        jar="F:\TestApplication\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cd688796dadc28f7f95db229cbfdaf91ebbb0d61">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0-alpha1_bc6dc2c899cecaf236e2088671f8b17c9e174283.jar" />
+    </item>
+    <item
+        jar="F:\TestApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="F:\TestApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha1_3c35c65fb24dfdd14c3fc1f36a101bb8a656c4d4.jar" />
+    </item>
+
+</items>
